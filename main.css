@@ -1,7 +1,10 @@
 body{
-    background-color:antiquewhite;
+    background-color:aliceblue;
     color:darkslateblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-h1{
-    font-variant: small-caps;
+p{
+    color: darkblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
 }
